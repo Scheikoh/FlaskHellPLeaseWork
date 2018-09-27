@@ -1,0 +1,55 @@
+
+        h1{
+            color:white;
+            background-color: black;
+            font-family: Verdana, Arial;
+            font-weight: bold;       }
+        p{background-color: aqua;
+        color: black;
+        border: chocolate 1px groove;
+        }
+        a{
+            color: white;
+            background-color: chocolate;
+            padding: 1px;
+        }
+        a:hover{
+            background-color: white;
+
+        }
+form{
+    background-color: blueviolet;
+}
+body{
+    //background-image: url("../images/images1.jpeg");
+}
+
+table{
+    background-color: azure;
+}
+#p1 {
+    color: blue;
+}
+#p2 {
+    color: yellow;
+}
+#body1{
+    background-color: cyan;
+}
+#body2{
+    background-color: crimson;
+}
+.a{
+    color: blue;
+    background-color: cornflowerblue;
+    //font: italic;
+}
+#t{
+    background-image:  url("../static/images/flag.png");
+    height: 800px;
+    width: 1200px;
+}
+
+#h3{
+    color: #005cbf;
+}
